@@ -1,7 +1,8 @@
 # is-project-code
 project code for game site and games
 Project Name:		SmileNLearn by Py
-Project Concept:	The goal would be to create a few games that can be used as a pass time in the classroom or at home for elementary students. All games would be located on the SmilenLearn site page.
+Project Concept:	The goal would be to create a few games that can be used as a pass time in the classroom or at home for elementary students. All games would be located on the SmilenLearn site page.******
+(Will need assistance on site page)
 	This games would encourage students to exercise their brains without extensive thinking or stress. 
 Project Games:
     1.	Memory – two of each symbol is covered by a colored box, it is the goal of the user to pair up each symbol. While uncovering the symbols, if they match, the symbols are eft uncovered. The goal is to uncover all symbols.
@@ -15,7 +16,7 @@ Making the Games my Own:
           i.	Ex. 10, 20, 30, 40 
           ii.	5, 10, 15, 20
        b.	Possible matching colors with the words, or shapes with the name of the shape (if I am able)
-People Needed:	Possibly need 2 students but it can be done with just 1 and assistance when needed from the professor.
+People Needed:	Can be done with just 1 and assistance when needed from the professor.
 Source:
 https://inventwithpython.com/pygame/chapter3.html
 https://realpython.com/what-can-i-do-with-python/#8-play-pygames
