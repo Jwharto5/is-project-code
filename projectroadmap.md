@@ -1,11 +1,11 @@
 1. Week 1
    1. Code prepping - Jalyn
-      1. *extract the code template for each of the games you will add*
+      1. *extract the code template for each of the games you will add* (_DONE_)
          * **There should be at least 3 code templates**
              - Teris
              - Memory
              - Number Slide
-      2. *tweak the code template to fit a younger audience*
+      2. *tweak the code template to fit a younger audience* (_DONE_)
           * **This should only include:**
               - _shapes that elementary children can identify_
               - _only including counts that children that age would know ie. 1-10, counting by 2, 3, or 5's_
